@@ -1,0 +1,5 @@
+dannie = input('Введите своё Имя')
+dannie2 = input('Введите свою фамилию')
+dannie3 = input('Введите свой возраст')
+my_tuple = (dannie, dannie2, dannie3)
+print(f'Имя: {my_tuple[0]} фамилие: {my_tuple[1]} Возраст: {my_tuple[2]}')

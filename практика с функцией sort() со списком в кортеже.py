@@ -1,0 +1,5 @@
+my_tuple = (1, 2, 3, [9, 2, 5, 6])
+my_tuple[3].sort()
+print(my_tuple)
+my_tuple[3].sort(reverse=True)
+print(my_tuple)
